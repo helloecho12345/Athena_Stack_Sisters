@@ -10,6 +10,9 @@
 
 h1 {
     color: white;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    padding-top: -1rem;
 }
 
 
@@ -25,16 +28,26 @@ h1 {
     padding-top: 100px;
 } */
 
-.btn-circle.btn-xl {
+
+/* .btn-circle.btn-xl {
     width: 70px;
     height: 70px;
     padding: 10px 16px;
     border-radius: 35px;
     /*font-size: 12px;*/
-    text-align: center;
+/*  text-align: center;
+} */
+
+.btn-circle.btn-xl {
+    padding: 18px 28px;
+    font-size: 40px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
 }
 
-.card-text ul li {
-  position: relative;
-  left: -10px;
+.footer {
+    display: block;
+    padding: 10px;
 }
