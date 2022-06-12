@@ -1,7 +1,7 @@
-const EducationBody = () => (
+const WorkBody = () => (
     <body>
-        <div class="section border-warning mb-3">
-            <h2 class="card-header bg-warning text-white">EDUCATION</h2>
+        <div class="section border-primary mb-3" id="work">
+            <h2 class="card-header bg-primary text-white">WORK</h2>
             <div class="card-body">
                 <div class="row">
 
@@ -38,4 +38,4 @@ const EducationBody = () => (
     </body>
 )
 
-export default EducationBody
+export default WorkBody

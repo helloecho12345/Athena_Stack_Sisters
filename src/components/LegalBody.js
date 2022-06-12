@@ -1,7 +1,7 @@
-const WorkBody = () => (
+const LegalBody = () => (
     <body>
-        <div class="section border-primary mb-3">
-            <h2 class="card-header bg-primary text-white">WORK</h2>
+        <div class="section border-warning mb-3" id="legal">
+            <h2 class="card-header bg-warning text-white">LEGAL RIGHTS</h2>
             <div class="card-body">
                 <div class="row">
 
@@ -38,4 +38,4 @@ const WorkBody = () => (
     </body>
 )
 
-export default WorkBody
+export default LegalBody

@@ -1,7 +1,7 @@
-const HealthBody = () => (
+const HomeBody = () => (
     <body>
-        <div class="section border-warning mb-3" id="health">
-            <h2 class="card-header bg-warning text-white">HEALTH</h2>
+        <div class="section border-warning mb-3" id="housing">
+            <h2 class="card-header bg-warning text-white">HOUSING</h2>
             <div class="card-body">
                 <div class="row">
 
@@ -38,4 +38,4 @@ const HealthBody = () => (
     </body>
 )
 
-export default HealthBody
+export default HomeBody

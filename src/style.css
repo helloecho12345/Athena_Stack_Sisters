@@ -1,0 +1,35 @@
+.masthead {
+    padding-top: 20rem;
+    padding-bottom: 10rem;
+}
+
+.masthead .masthead-heading {
+    font-size: 4rem;
+    line-height: 2.75rem;
+}
+
+h1 {
+    color: white;
+}
+
+
+/* .btn1 {
+    margin: 40px;
+}
+ */
+
+
+/*.xyz {
+    background-size: auto;
+    text-align: center;
+    padding-top: 100px;
+} */
+
+.btn-circle.btn-xl {
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    /*font-size: 12px;*/
+    text-align: center;
+}
