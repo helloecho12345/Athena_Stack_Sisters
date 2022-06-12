@@ -33,3 +33,8 @@ h1 {
     /*font-size: 12px;*/
     text-align: center;
 }
+
+.card-text ul li {
+  position: relative;
+  left: -10px;
+}

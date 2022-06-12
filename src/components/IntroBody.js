@@ -9,7 +9,14 @@ const IntroBody = () => (
                         <div class="card">
                             <img src="https://pbs.twimg.com/profile_images/1356921365698404356/3OG1HbbM_400x400.jpg" class="card-img-top " alt="... "></img>
                             <div class="card-body">
-                                <p class="card-text ">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <p class="card-text ">
+                                In the UK, people have many cultures and many religions:
+                                    <ul>
+                                        <li>Find churches near you</li>
+                                        <li>Find mosques near you</li>
+                                        <li>Find synagogues near you</li>
+                                    </ul>
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -18,7 +25,15 @@ const IntroBody = () => (
                         <div class="card">
                             <img src="https://pbs.twimg.com/profile_images/1356921365698404356/3OG1HbbM_400x400.jpg" class="card-img-top " alt="... "></img>
                             <div class="card-body">
-                                <p class="card-text ">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <p class="card-text ">
+                                    People speak many different languages:
+                                    <ul>
+                                        <li>English</li>
+                                        <li>Welsh</li>
+                                        <li>Gaelic</li>
+                                        <li>Irish</li>
+                                    </ul>
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -27,7 +42,14 @@ const IntroBody = () => (
                         <div class="card">
                             <img src="https://pbs.twimg.com/profile_images/1356921365698404356/3OG1HbbM_400x400.jpg" class="card-img-top " alt="... "></img>
                             <div class="card-body">
-                                <p class="card-text ">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <p class="card-text ">
+                                    Money used:
+                                    <ul>
+                                        <li>Pound (£)</li>
+                                        <li>Cash</li>
+                                        <li>Card</li>
+                                    </ul>
+                                </p>
                             </div>
                         </div>
                     </div>
