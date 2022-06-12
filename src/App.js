@@ -1,6 +1,5 @@
 //import logo from './logo.svg';
 import './App.css';
-//import Test from './components/Test';
 import Header from './components/Header';
 import EducationBody from './components/EducationBody';
 import WorkBody from './components/WorkBody';
@@ -9,6 +8,7 @@ import LegalBody from './components/LegalBody';
 import HealthBody from './components/HealthBody';
 import EmergencyBody from './components/EmergencyBody';
 import HomeBody from './components/HomeBody';
+import Footer from './components/Footer';
 
 function App() {
     return ( <
@@ -29,6 +29,7 @@ function App() {
         HealthBody / >
         <
         EmergencyBody / >
+        <Footer />
         <
         /div>
     );

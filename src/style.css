@@ -8,6 +8,14 @@
     line-height: 2.75rem;
 }
 
+#logo {
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 8px;
+    left: 10px;
+}
+
 h1 {
     color: white;
     padding-bottom: 1rem;
