@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 //import Test from './components/Test';
 import Header from './components/Header';
@@ -11,18 +11,27 @@ import EmergencyBody from './components/EmergencyBody';
 import HomeBody from './components/HomeBody';
 
 function App() {
-  return (
-    <div className="App">
-        <Header />
-        <IntroBody />
-        <WorkBody />
-        <HomeBody />
-        <EducationBody />
-        <LegalBody />
-        <HealthBody />
-        <EmergencyBody />
-    </div>
-  );
+    return ( <
+        div className = "App" >
+        <
+        Header / >
+        <
+        IntroBody / >
+        <
+        WorkBody / >
+        <
+        HomeBody / >
+        <
+        EducationBody / >
+        <
+        LegalBody / >
+        <
+        HealthBody / >
+        <
+        EmergencyBody / >
+        <
+        /div>
+    );
 }
 
 export default App;
